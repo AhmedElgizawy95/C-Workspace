@@ -11,7 +11,7 @@
 
 ## Session 5 Assignment 1 Added 9-April-2023 (Lambda)
 
-## Session 5 Assignment 2 Added 9-April-2023 (Pointer for Function)
+## Session 5 Assignment 2 Added 9-April-2023 (Pointer to Function)
 
 ## Session 5 Assignment 3 Added 9-April-2023 (Frequency of numbers in an array)
 
