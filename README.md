@@ -15,7 +15,9 @@
 
 ## Session 5 Assignment 3 Added 9-April-2023 (Frequency of numbers in an array)
 
-## Session 6 Assignment 1 Added 11-April-2023 (employees.h , employee.c , emp.main)
+## Session 6 Assignment 1 Added 11-April-2023 (employees.h , employee.cpp , emp.main)
+
+## Session 7 Assignment 1 Added 3-May-2023 (OOP1.cpp ) 
 
 
 
